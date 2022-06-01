@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
         itemCount : 2022,
         status: 1,
         surface : 1,
-        message: '🎉 SELAMAT', 
+        message: '🎉 Horee', 
         orderTitle: `Regist Event`,
         thumbnail: fs.readFileSync("./src/logo.jpg"),
         sellerJid: '0@s.whatsapp.net' 
